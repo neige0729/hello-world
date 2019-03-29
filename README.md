@@ -8,6 +8,4 @@ Let’s get started with GitHub!
 4. Write a commit message that describes your changes.
 5. Click Commit changes button.
 
-
-
-
+*^^*
